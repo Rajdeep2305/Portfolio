@@ -2280,7 +2280,7 @@ footer{
 }
 
 /* Max-width 430px*/
-@media screen and (max-width: 430px){
+@media screen and (max-width: 435px){
     .header{
         display: block;
         height: 200px;
